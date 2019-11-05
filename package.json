@@ -1,0 +1,28 @@
+{
+  "name": "drawatcanvas",
+  "version": "1.0.0",
+  "description": "...",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKoyl/DrawAtCanvas.git"
+  },
+  "author": "MrKoyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKoyl/DrawAtCanvas/issues"
+  },
+  "homepage": "https://github.com/MrKoyl/DrawAtCanvas#readme"
+}
